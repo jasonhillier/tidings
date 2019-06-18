@@ -1,6 +1,6 @@
 {
   "name": "tidings",
-  "version": "1.0.17",
+  "version": "2.0.1",
   "description": "Reporting scaffolding and pattern.",
   "main": "source/Tidings.js",
   "scripts": {
@@ -40,10 +40,9 @@
     "fable": "^1.0.1",
     "moment": "^2.15.2",
     "moment-timezone": "^0.5.13",
-    "orator": "~1.0.2",
+    "orator": "~2.0.2",
     "quantifier": "^1.0.2",
     "request": "^2.76.0",
-    "restify": "^4.0.3",
     "underscore": "^1.8.3"
   }
 }
